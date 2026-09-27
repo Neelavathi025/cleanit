@@ -1,0 +1,7 @@
+{
+  "name": "CLEAN IT - Environmental Awareness Game",
+  "description": "An interactive 2D environmental exploration and puzzle game. Clean the street, sort waste, investigate pollution causes, and choose systemic prevention solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
